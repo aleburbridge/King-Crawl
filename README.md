@@ -11,20 +11,24 @@
      Ace cards - Starts a combat
      Face cards - Can be purchased
 4. If you can't take combat damage, you lose
-5. If you purchase all the Kings you win!
+5. Score 4 victory points to win
 
 
 ## Combat
-> - Combat begins when an ace is drawn 
+> - Combat begins when an ace is drawn, the player who drew the ace goes first
 > - Cards are drawn from the discard pile until the pile is exhausted. This means the longer you have between combats, the longer the combat will be
 > - A card is defeated by discarding one of your own cards of equal or greater value
 > - If the player decides, he can continuously draw from the combat pile to fight multiple cards at once, but can only discard one card.
 > - If you can't meet the damage required with a single card, you lose
 > - The face cards in your possession can be discarded for damage equal to their purchase cost
-> - After combat concludes, the defeated cards are shuffled and placed at the draw pile 
+> - After combat concludes, the defeated cards are shuffled and placed at the bottom of the draw pile 
 
 ## Face cards
 > - When a face card is drawn, either player may decide to purhcase it using the cards in their hand
 > - King - $40, worth 1 victory point
 > - Queen - $30, can be spent to permanently remove a card from the deck
 > - Jack - $20, +1 hand size
+
+## Rules
+> - Either player can take an action when a card is drawn
+> - Victory points are global
